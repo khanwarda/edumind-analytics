@@ -14,6 +14,10 @@
 ![Email Draft](email_draft.png)
 *AI-generated empathetic outreach draft, ready for instructor review in Gmail.*
 
+### ⚙️ Automation Workflow (n8n)
+![n8n Workflow](n8n_workflow.png)
+*The low-code automation pipeline that connects AI prediction with personalized outreach.*
+
 ---
 
 ## 🚀 The Core Problem
